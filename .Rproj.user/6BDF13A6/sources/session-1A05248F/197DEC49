@@ -1,0 +1,27 @@
+{
+    "id": "197DEC49",
+    "path": "C:/Data_Analytics/PenguinPalmer/penguin_viz.R",
+    "project_path": "penguin_viz.R",
+    "type": "r_source",
+    "hash": "1102429215",
+    "contents": "",
+    "dirty": false,
+    "created": 1666253483062.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "6,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1666257505,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1666257505528,
+    "read_only": false,
+    "read_only_alternatives": []
+}
